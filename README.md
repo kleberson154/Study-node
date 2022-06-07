@@ -4,7 +4,7 @@
 
 ### Objective
 
-**Learn NodeJs**
+**Learning NodeJs and Express**
 
 ### Technologies used
 
